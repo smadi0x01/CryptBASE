@@ -2,6 +2,7 @@
 
 ## Compile
 <strong><h4>$~ csc.exe -out:insideheartz.exe insideheartz.cs</h4></strong>
+
 ## Execute
 <strong><h4>$~ coldcryptor run []</h4></strong>
 
@@ -20,6 +21,13 @@
 2. a directory is supplied and it is a UNC path
 </details>
 
+## Cleanup
+<strong><h4>$~ insideheartz clean []</h4></strong>
+
+<details> <summary><strong><h3>Details</h3></strong></summary>
+  - This will delete the three directories/provided directory and all registry keys (same UNC restrictions apply).
+
+</details>
 
 ## ⚠️ Disclaimer :
 - I am not responsible for any misuse of this information, its only for education purposes 
