@@ -17,8 +17,8 @@
 - The list of files is then randomized and each file is encrypted and saved as the provided extension. 
   
 - Finally, it writes a key and file association to HKCU. The association sets the extension to launch calc. However, no registry changes will happen if:
-1. the current directory is UNC path
-2. a directory is supplied and it is a UNC path
+1. The current directory is UNC path
+2. A directory is supplied and it is a UNC path
 </details>
 
 ## Cleanup
