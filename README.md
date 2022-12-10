@@ -6,7 +6,8 @@
 ## Execute
 - coldcryptor run []
 <details> <summary><strong><h3>Details</h3></strong></summary> 
-- Will create three directories (one, two, three) and populate each with 50 .txt files.
+  
+- This Will create three directories (one, two, three) and populate each with 50 .txt files.
   
 - If a file called "data" is detected in the current directory, then its contents will be used to populate the generated files.
   
