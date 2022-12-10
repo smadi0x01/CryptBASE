@@ -25,6 +25,7 @@
 <strong><h4>$~ insideheartz clean []</h4></strong>
 
 <details> <summary><strong><h3>Details</h3></strong></summary>
+  
   - This will delete the three directories/provided directory and all registry keys (same UNC restrictions apply).
 
 </details>
