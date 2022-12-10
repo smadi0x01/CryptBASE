@@ -1,10 +1,10 @@
 ![image](https://user-images.githubusercontent.com/75253629/198406644-f75ec147-0e46-4326-a999-06a052f0721e.png)
 
 ## Compile
-- csc.exe -out:insideheartz.exe insideheartz.cs
-
+<strong><h4>$~ csc.exe -out:insideheartz.exe insideheartz.cs</h4></strong>
 ## Execute
-<strong><h4>coldcryptor run []</h4></strong>
+<strong><h4>$~ coldcryptor run []</h4></strong>
+
 <details> <summary><strong><h3>Details</h3></strong></summary> 
   
 - This will create three directories (one, two, three) and populate each with 50 .txt files.
